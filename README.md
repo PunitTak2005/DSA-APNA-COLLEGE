@@ -7,7 +7,7 @@ This repository contains implementations of essential **Data Structures and Algo
 To run the programs:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/dsa-repo.git
+   git clone (https://github.com/PunitTak2005/DSA-APNA-COLLEGE)
    ```
 2. Navigate to the desired folder:
    ```sh
